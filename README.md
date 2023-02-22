@@ -31,5 +31,6 @@ Run the above Python script using the command "python deploy_website.py" to depl
 
 14.Install Nginx in EC2 instance using remote execution.
 
+
 URL of the website hosted: 
 https://helloworld-com.s3.ap-south-1.amazonaws.com/index.html
